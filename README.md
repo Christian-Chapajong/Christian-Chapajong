@@ -1,6 +1,3 @@
-## Hi there 👋
-
-- 🔭 I’m currently working towards a software engineering degree at QMUL
-- 🌱 I’m currently learning how to use GitHub
-- 👯 I’m looking to collaborate on different projects
-- 🤔 I’m looking for help with Linux
+Python engineer building reliable, data-driven internal analytics tools, dashboards, and APIs.
+Background working inside an investment bank on production-grade systems.
+Focused on clear, maintainable, deployable solutions.
